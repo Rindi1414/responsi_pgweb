@@ -25,10 +25,10 @@ WebGIS Yogyakarta Sea Wonderland Merupakan Salah Satu WebGIS Berbasis Informasi 
 ## Tangkapan Layar Komponen Penting Produk
 
 1. *Landing Page:*
-   <img src="img/lp1.png" width="160">
-   <img src="img/lp2.png" width="160">
-   <img src="img/lp3.png" width="160">
-   <img src="img/lp4.png" width="160">
+   <img src="assets/img/lp1.png" width="160">
+   <img src="assets/img/lp2.png" width="160">
+   <img src="assets/img/lp3.png" width="160">
+   <img src="assets/img/lp4.png" width="160">
 
 2. *WEBGIS Dengan Elemen Database:*
-   <img src="img/lp5.png" width="200">
+   <img src="assets/img/lp5.png" width="200">
